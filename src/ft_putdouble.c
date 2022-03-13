@@ -2,7 +2,7 @@
 
 //not error prone, if values of double overstep limits
 
-int ft_putlong(long ld)
+static int ft_putlong(long ld)
 {
 	char	c;
 
